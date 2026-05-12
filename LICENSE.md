@@ -1,4 +1,4 @@
-# 
+# high-frequency opensea sniper bot | profit-calculator + metadata-parsing offers the most advanced opensea sniper bot, with profit-calculator and metadata-parsing. Ideal for
 
 
 
